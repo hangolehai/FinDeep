@@ -329,21 +329,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👥 Team
-
-- **Project Lead** - Full-stack development & AI integration
-- **Contributors** - Open to community contributions
-
----
-
-## 📧 Contact
-
-- **Email**: contact@findeep.ai
-- **GitHub**: [@hangolehai](https://github.com/hangolehai)
-- **Issues**: [GitHub Issues](https://github.com/hangolehai/FinDeep/issues)
-
----
-
 ## 🙏 Acknowledgments
 
 - Built with [Vite](https://vitejs.dev/)
@@ -351,23 +336,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons from [Lucide](https://lucide.dev/)
 - Animations with [Framer Motion](https://www.framer.com/motion/)
 
----
-
-## 📈 Status
-
-![GitHub last commit](https://img.shields.io/github/last-commit/hangolehai/FinDeep)
-![GitHub issues](https://img.shields.io/github/issues/hangolehai/FinDeep)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/hangolehai/FinDeep)
-
-**Current Version**: 0.1.0 (MVP)  
-**Status**: Active Development 🚀  
-**Demo**: Coming Soon
-
----
-
-<div align="center">
-
-Made with ❤️ by the FinDeep Team
 
 [⬆ Back to Top](#findeep---ai-powered-fpa-assistant)
 
